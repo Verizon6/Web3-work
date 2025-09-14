@@ -30,3 +30,21 @@ I believe blockchain is the future of finance and governance. I’m committed to
 ---
 
 📩 Contact: nwaukwaakachukwu141@gmail.com Twitter: davies7moore meockchainmeme
+# DeFi Research Notes
+
+## Aave
+- A decentralized lending platform that allows users to lend and borrow assets.  
+- Key innovation: Flash loans.  
+
+## Compound
+- Algorithmic, autonomous interest rate protocol.  
+- Interest rates adjust based on supply and demand.  
+
+## Curve
+- Specialized DEX for stablecoin swaps.  
+- Known for low slippage and efficient stablecoin liquidity pools.
+  # Community Contributions
+
+- Helped onboard new users into crypto communities (Telegram, Discord).  
+- Participated in AMAs, testing phases, and feedback loops for Web3 projects.  
+- Shared research and tutorials with newcomers to simplify DeFi concepts.
